@@ -14,8 +14,8 @@
 1. **Склонируйте репозиторий**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/k0xzy/stub_QEhw
+   cd stub_QEhw
 
 2. **Сборка проекта**
     ```bash
