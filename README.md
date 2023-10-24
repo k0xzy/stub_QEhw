@@ -21,6 +21,6 @@
     ```bash
       mvn package
 
-3. **Запустите приложение**
+3. **Запустите приложение (port->:8080)**
     ```bash
     java -jar target/demo-0.0.1-SNAPSHOT.jar
