@@ -19,12 +19,8 @@
 
 2. **Сборка проекта**
     ```bash
-      mvn clean package
+      mvn package
 
 3. **Запустите приложение**
     ```bash
     java -jar target/demo-0.0.1-SNAPSHOT.jar
-
-4. **Тест заглушки**
-   ```bash
-   mvn test
